@@ -22,7 +22,7 @@ You are always welcome to surf the web to learn more!
 
 In this task, you are provided with a website containing a broken terminal. Your first objective is to recreate the User Interface (UI) displayed on the left side of the terminal, as shown in the image provided below. You have the assets needed in the asset folder provided with this repository. The design can be customized freely while ensuring it contains all the elements shown in the image.
 
-You will get all the assets needed in the asset folder included in this repository and you can find the data to be used [here.]()
+You will get all the assets needed in the asset folder included in this repository and you can find the data to be used [here.](https://docs.google.com/spreadsheets/d/1dAYYM137rHW0y2ACILgFBn-g5tYDa2aDWpWWj6RHBQo/edit?usp=sharing)
 
 Image
 
