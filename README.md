@@ -36,7 +36,7 @@ Your next objective is to integrate functional commands into the terminal. Below
 - buy: Proceed to a new webpage where you can review items in your cart along with the total price, enabling you to finalize your purchase.
 - clear: Clear the terminal screen.
 
-Implementing these commands will make the terminal interactive and functional. The "buy" command, in particular, should lead to a webpage displaying your cart contents and total price, facilitating the checkout process.
+Implementing these commands will make the terminal interactive and functional. The "buy" command, in particular, should lead to a webpage displaying your cart contents and total price, facilitating the checkout process. The "details" command should open another html page conatining the details of the product corresponding to product ID specified.
 
 ## **Additional Features**
 
