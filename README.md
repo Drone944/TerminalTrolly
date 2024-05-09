@@ -38,11 +38,12 @@ Your next objective is to integrate functional commands into the terminal. Below
 
 Implementing these commands will make the terminal interactive and functional. The "buy" command, in particular, should lead to a webpage displaying your cart contents and total price, facilitating the checkout process.
 
-## **Bonus Feature**
+## **Additional Features**
 
 - Add products with categories(sneakers, boots..) and add a command to search the product based on the product
 - Add a "wishlist" command for users to add products to their wishlist by ID. Display wishlist contents on a dedicated webpage.
 - Priority will be given to creative UI elements to enhance user engagement.
+- Make it responsive.
 
 
 ## Gear up to unleash your creativity and bring this terminal to life!
