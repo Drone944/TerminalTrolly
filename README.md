@@ -1,6 +1,6 @@
 # TerminalTrolly
 
-Greetings, Sneakerheads! Welcome to the TerminalTrolly Challenge—a test of your problem-solving skills in the web world.
+Greetings, Sneakerheads! Welcome to the TerminalTrolly Challenge—a test of your problem-solving skills in the world of web.
 
 Imagine you're part of a team responsible for managing a trendy online shoe boutique. Unfortunately, our e-commerce platform has encountered unexpected technical issues, leaving customers unable to make purchases through the website.
 
