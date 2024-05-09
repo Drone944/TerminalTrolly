@@ -1,6 +1,6 @@
-# Name
+# TerminalTrolly
 
-Greetings, Sneaker heads! Welcome to the [name] Challenge—a test of your problem-solving skills in the world of online retail.
+Greetings, Sneakerheads! Welcome to the TerminalTrolly Challenge—a test of your problem-solving skills in the web world.
 
 Imagine you're part of a team responsible for managing a trendy online shoe boutique. Unfortunately, our e-commerce platform has encountered unexpected technical issues, leaving customers unable to make purchases through the website.
 
@@ -10,7 +10,7 @@ Your mission is clear: navigate through the virtual maze of glitchy code and fau
 
 ## Briefing on the basics
 
-If you haven't got much knowledge of HTML and CSS, not to worry! HTML is a language used to describe the structure of the pages you see on the browser, whereas CSS enables those pages to look beautiful and tidy. Additionally, JavaScript can be used to create dynamically updating content, control multimedia, and animate images! 
+If you haven't got much knowledge of HTML and CSS, don't worry! HTML is a language used to describe the structure of the pages you see on the browser, whereas CSS enables those pages to look beautiful and tidy. Additionally, JavaScript can be used to create dynamically updating content, control multimedia, and animate images! 
 
 Here are some resources to help you learn :
 - [Building your first with HTML and CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
@@ -20,21 +20,29 @@ You are always welcome to surf the web to learn more!
 
 ## Guidlines
 
-In this task, you are provided with a website containing a broken terminal. Your first objective is to recreate the User Interface (UI) displayed on the left side of the terminal, as shown in the image provided below. You have the assets needed in the asset folder provided with this repository. The design can be customized freely while ensuring it contains all the elements shown in the image.
+In this task, you are provided with a website containing a broken terminal. Your first objective is to recreate the User Interface (UI) displayed on the left side of the terminal, as shown in the demo provided below. You have the assets needed in the asset folder provided with this repository. The design can be customized freely while ensuring it contains all the elements shown in the demo.
 
 You will get all the assets needed in the asset folder included in this repository and you can find the data to be used [here.](https://docs.google.com/spreadsheets/d/1dAYYM137rHW0y2ACILgFBn-g5tYDa2aDWpWWj6RHBQo/edit?usp=sharing)
 
-Image
+https://github.com/Drone944/TerminalTrolly/assets/109474492/8723299d-f064-4090-8a5d-10c716bffc37
 
 Your next objective is to integrate functional commands into the terminal. Below are the commands to implement along with their descriptions:
 
 - list: Display all available products.
 - details 'product_id': View details of a specific product identified by its ID.
 - add 'product_id': Add a specific product to your cart using its ID.
+- 'remove [product id]': To remove the product from the cart
 - cart: View the current items in your cart.
 - buy: Proceed to a new webpage where you can review items in your cart along with the total price, enabling you to finalize your purchase.
 - clear: Clear the terminal screen.
 
 Implementing these commands will make the terminal interactive and functional. The "buy" command, in particular, should lead to a webpage displaying your cart contents and total price, facilitating the checkout process.
 
-Please refer to the provided images for a visual representation of how these commands should function within the terminal interface.
+## **Bonus Feature**
+
+- Add products with categories(sneakers, boots..) and add a command to search the product based on the product
+- Add a "wishlist" command for users to add products to their wishlist by ID. Display wishlist contents on a dedicated webpage.
+- Priority will be given to creative UI elements to enhance user engagement.
+
+
+## Gear up to unleash your creativity and bring this terminal to life!
