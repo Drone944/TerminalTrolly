@@ -42,7 +42,5 @@ Your creativity, as well as the design and functionality of the UI and the termi
 
 ## **Optional Features**
 
-- Add a category field (e.g., sneakers, boots) or a brand name field (e.g., Nike, Adidas). Implement a 'search' command to display shoes belonging to a selected category or brand.
-
-
-## Gear up to unleash your creativity and bring this terminal to life!
+- Add a category field (e.g., sneakers, boots) or a brand name field (e.g., Nike, Adidas). 
+- Implement a 'search' command to display shoes belonging to a selected category or brand.
