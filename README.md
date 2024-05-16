@@ -31,19 +31,18 @@ Your next objective is to integrate functional commands into the terminal. Below
 - list: Display all available products.
 - details 'product_id': View details of a specific product identified by its ID.
 - add 'product_id': Add a specific product to your cart using its ID.
-- 'remove [product id]': To remove the product from the cart
+- remove 'product id': To remove the product from the cart
 - cart: View the current items in your cart.
 - buy: Proceed to a new webpage where you can review items in your cart along with the total price, enabling you to finalize your purchase.
 - clear: Clear the terminal screen.
 
 Implementing these commands will make the terminal interactive and functional. The "buy" command, in particular, should lead to a webpage displaying your cart contents and total price, facilitating the checkout process. The "details" command should open another html page conatining the details of the product corresponding to product ID specified.
 
-## **Additional Features**
+Your creativity, as well as the design and functionality of the UI and the terminal, will be evaluated. Remember to ensure the webpage is responsive!
 
-- Add products with categories(sneakers, boots..) and add a command to search the product based on the product
-- Add a "wishlist" command for users to add products to their wishlist by ID. Display wishlist contents on a dedicated webpage.
-- Priority will be given to creative UI elements to enhance user engagement.
-- Make it responsive.
+## **Optional Features**
+
+- Add a category field (e.g., sneakers, boots) or a brand name field (e.g., Nike, Adidas). Implement a 'search' command to display shoes belonging to a selected category or brand.
 
 
 ## Gear up to unleash your creativity and bring this terminal to life!
